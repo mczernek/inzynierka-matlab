@@ -1,0 +1,5 @@
+﻿kon1 - kieszen z obrotem, dwa skłony
+kon2 - podskoki, przysiad
+kon3 - powolny upadek
+kon4 - przod
+kon5 - skok
